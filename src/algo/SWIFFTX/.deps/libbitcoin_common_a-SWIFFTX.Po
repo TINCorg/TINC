@@ -1,0 +1,49 @@
+algo/SWIFFTX/libbitcoin_common_a-SWIFFTX.o: algo/SWIFFTX/SWIFFTX.c \
+ algo/SWIFFTX/SWIFFTX.h algo/SWIFFTX/stdint.h algo/SWIFFTX/inttypes.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/stdint.h \
+ /usr/share/mingw-w64/include/stdint.h \
+ /usr/share/mingw-w64/include/crtdefs.h \
+ /usr/share/mingw-w64/include/_mingw.h \
+ /usr/share/mingw-w64/include/_mingw_mac.h \
+ /usr/share/mingw-w64/include/_mingw_secapi.h \
+ /usr/share/mingw-w64/include/vadefs.h \
+ /usr/share/mingw-w64/include/sdks/_mingw_directx.h \
+ /usr/share/mingw-w64/include/sdks/_mingw_ddk.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/stddef.h \
+ /usr/share/mingw-w64/include/stddef.h algo/SWIFFTX/stdbool.h \
+ /usr/share/mingw-w64/include/memory.h \
+ /usr/share/mingw-w64/include/sec_api/memory_s.h
+
+algo/SWIFFTX/SWIFFTX.h:
+
+algo/SWIFFTX/stdint.h:
+
+algo/SWIFFTX/inttypes.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/stdint.h:
+
+/usr/share/mingw-w64/include/stdint.h:
+
+/usr/share/mingw-w64/include/crtdefs.h:
+
+/usr/share/mingw-w64/include/_mingw.h:
+
+/usr/share/mingw-w64/include/_mingw_mac.h:
+
+/usr/share/mingw-w64/include/_mingw_secapi.h:
+
+/usr/share/mingw-w64/include/vadefs.h:
+
+/usr/share/mingw-w64/include/sdks/_mingw_directx.h:
+
+/usr/share/mingw-w64/include/sdks/_mingw_ddk.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/stddef.h:
+
+/usr/share/mingw-w64/include/stddef.h:
+
+algo/SWIFFTX/stdbool.h:
+
+/usr/share/mingw-w64/include/memory.h:
+
+/usr/share/mingw-w64/include/sec_api/memory_s.h:

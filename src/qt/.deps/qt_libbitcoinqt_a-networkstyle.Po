@@ -1,0 +1,1275 @@
+qt/qt_libbitcoinqt_a-networkstyle.o: qt/networkstyle.cpp \
+ qt/networkstyle.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/QIcon \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qicon.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qglobal.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/cstddef \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/stddef.h \
+ /usr/share/mingw-w64/include/stddef.h \
+ /usr/share/mingw-w64/include/crtdefs.h \
+ /usr/share/mingw-w64/include/_mingw.h \
+ /usr/share/mingw-w64/include/_mingw_mac.h \
+ /usr/share/mingw-w64/include/_mingw_secapi.h \
+ /usr/share/mingw-w64/include/vadefs.h \
+ /usr/share/mingw-w64/include/sdks/_mingw_directx.h \
+ /usr/share/mingw-w64/include/sdks/_mingw_ddk.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qconfig.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfeatures.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsystemdetection.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qprocessordetection.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcompilerdetection.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/utility \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_relops.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_pair.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/move.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/concept_check.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/algorithm \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_algobase.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/functexcept.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/exception_defines.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/cpp_type_traits.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/ext/type_traits.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/ext/numeric_traits.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_iterator_base_types.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_iterator_base_funcs.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/debug/debug.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_iterator.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/ptr_traits.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/predefined_ops.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_algo.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/cstdlib \
+ /usr/share/mingw-w64/include/stdlib.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include-fixed/syslimits.h \
+ /usr/share/mingw-w64/include/limits.h \
+ /usr/share/mingw-w64/include/sec_api/stdlib_s.h \
+ /usr/share/mingw-w64/include/malloc.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/algorithmfwd.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_heap.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_tempbuf.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_construct.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/new \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/exception \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/atomic_lockfree_defines.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/ext/alloc_traits.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/allocator.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/ext/new_allocator.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/memoryfwd.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtypeinfo.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtypetraits.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsysinfo.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qlogging.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qflags.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qatomic.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qbasicatomic.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qatomic_x86.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qgenericatomic.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qglobalstatic.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qnumeric.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsize.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qnamespace.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qlist.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qalgorithms.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qiterator.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qrefcount.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qarraydata.h \
+ /usr/share/mingw-w64/include/string.h \
+ /usr/share/mingw-w64/include/sec_api/string_s.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/iterator \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/ostream \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/ios \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/iosfwd \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stringfwd.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/postypes.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/cwchar \
+ /usr/share/mingw-w64/include/wchar.h \
+ /usr/share/mingw-w64/include/_mingw_print_push.h \
+ /usr/share/mingw-w64/include/_mingw_off_t.h \
+ /usr/share/mingw-w64/include/_mingw_stat64.h \
+ /usr/x86_64-w64-mingw32/include/swprintf.inl \
+ /usr/share/mingw-w64/include/sec_api/wchar_s.h \
+ /usr/share/mingw-w64/include/_mingw_print_pop.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/char_traits.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/localefwd.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/clocale \
+ /usr/share/mingw-w64/include/locale.h \
+ /usr/share/mingw-w64/include/stdio.h \
+ /usr/share/mingw-w64/include/sec_api/stdio_s.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/cctype \
+ /usr/share/mingw-w64/include/ctype.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/ios_base.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/ext/atomicity.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/x86_64-w64-mingw32/bits/gthr.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
+ /usr/share/mingw-w64/include/pthread.h \
+ /usr/share/mingw-w64/include/errno.h \
+ /usr/share/mingw-w64/include/sys/types.h \
+ /usr/share/mingw-w64/include/process.h \
+ /usr/share/mingw-w64/include/signal.h \
+ /usr/share/mingw-w64/include/pthread_signal.h \
+ /usr/share/mingw-w64/include/sys/timeb.h \
+ /usr/share/mingw-w64/include/sec_api/sys/timeb_s.h \
+ /usr/share/mingw-w64/include/pthread_compat.h \
+ /usr/share/mingw-w64/include/pthread_unistd.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/locale_classes.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/string \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/ostream_insert.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/cxxabi_forced.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_function.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/backward/binders.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/range_access.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/basic_string.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/basic_string.tcc \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/locale_classes.tcc \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/stdexcept \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/streambuf \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/streambuf.tcc \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/basic_ios.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/locale_facets.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/cwctype \
+ /usr/share/mingw-w64/include/wctype.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/x86_64-w64-mingw32/bits/ctype_base.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/streambuf_iterator.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/locale_facets.tcc \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/basic_ios.tcc \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/ostream.tcc \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/istream \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/istream.tcc \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stream_iterator.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/list \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_list.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/list.tcc \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qbytearraylist.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qbytearray.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/stdarg.h \
+ /usr/share/mingw-w64/include/stdarg.h \
+ /usr/share/mingw-w64/include/_mingw_stdarg.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstringlist.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qregexp.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstring.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qchar.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstringmatcher.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qpixmap.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qpaintdevice.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qwindowdefs.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qobjectdefs.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qobjectdefs_impl.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qwindowdefs_win.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qrect.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmargins.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qpoint.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qcolor.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qrgb.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsharedpointer.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qshareddata.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qhash.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qpair.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/numeric \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_numeric.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsharedpointer_impl.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qobject.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qscopedpointer.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmetatype.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qvarlengtharray.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcontainerfwd.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qisenum.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/vector \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_uninitialized.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_vector.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_bvector.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/vector.tcc \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/map \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_tree.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_map.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_multimap.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qobject_impl.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qimage.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qtransform.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qmatrix.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qpolygon.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qvector.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qregion.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qdatastream.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qiodevice.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qline.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qpainterpath.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qpixelformat.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/QPixmap \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qpixmap.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/QString \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstring.h \
+ qt/guiconstants.h qt/scicon.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/QtCore \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/QtCoreDepends \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qabstractanimation.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qanimationgroup.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qabstractanimation.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qparallelanimationgroup.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qanimationgroup.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qpauseanimation.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qpropertyanimation.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qvariantanimation.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qeasingcurve.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qvariant.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmap.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsequentialanimationgroup.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qvariantanimation.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtextcodec.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcompilerdetection.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qendian.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qflags.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qglobal.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qglobalstatic.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qisenum.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qlibraryinfo.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qdatetime.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/limits \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qnamespace.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qnumeric.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qprocessordetection.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsysinfo.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsystemdetection.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtypeinfo.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtypetraits.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qbuffer.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qdatastream.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qdebug.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtextstream.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qlocale.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qset.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcontiguouscache.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qdir.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfileinfo.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfile.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfiledevice.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qdiriterator.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qdir.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfile.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfiledevice.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfileinfo.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfileselector.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/QObject \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qobject.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/QStringList \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstringlist.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfilesystemwatcher.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qiodevice.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qlockfile.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qloggingcategory.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qdebug.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qprocess.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qresource.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsavefile.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsettings.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstandardpaths.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstorageinfo.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtemporarydir.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/QScopedPointer \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qscopedpointer.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtemporaryfile.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtextstream.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qurl.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qurlquery.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qurl.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qabstractitemmodel.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qabstractproxymodel.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qabstractitemmodel.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qidentityproxymodel.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qabstractproxymodel.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qitemselectionmodel.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsortfilterproxymodel.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstringlistmodel.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qjsonarray.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qjsonvalue.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qjsondocument.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qjsonobject.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qjsonvalue.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qabstracteventdispatcher.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qeventloop.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qabstractnativeeventfilter.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qbasictimer.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcoreapplication.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcoreevent.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcoreevent.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qeventloop.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmath.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/cmath \
+ /usr/share/mingw-w64/include/math.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmetaobject.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmetatype.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmimedata.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qobjectcleanuphandler.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qobjectdefs.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qpointer.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsharedmemory.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsignalmapper.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsocketnotifier.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsystemsemaphore.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtimer.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qbasictimer.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtranslator.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qvariant.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qwineventnotifier.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmimedatabase.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmimetype.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmimetype.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfactoryinterface.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qlibrary.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qplugin.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qpointer.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qjsonobject.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qpluginloader.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qlibrary.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qplugin.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/quuid.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qabstractstate.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qabstracttransition.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qeventtransition.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qabstracttransition.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfinalstate.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qabstractstate.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qhistorystate.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsignaltransition.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstate.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmetaobject.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstatemachine.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstate.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qatomic.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qexception.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfuture.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfutureinterface.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qrunnable.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmutex.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qexception.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qresultstore.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfutureinterface.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfuturesynchronizer.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfuture.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfuturewatcher.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qgenericatomic.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmutex.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qreadwritelock.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qresultstore.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qrunnable.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsemaphore.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qthread.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qthreadpool.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qthread.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qthreadstorage.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qwaitcondition.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qalgorithms.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qarraydata.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qarraydataops.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qarraydatapointer.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qarraydataops.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qbitarray.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qbytearray.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qbytearraylist.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qbytearraymatcher.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcache.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qchar.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcollator.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcommandlineoption.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcommandlineparser.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcoreapplication.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcommandlineoption.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcontainerfwd.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcontiguouscache.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcryptographichash.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qdatetime.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qeasingcurve.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qelapsedtimer.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qhash.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qiterator.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qline.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qlinkedlist.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qlist.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qlocale.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmap.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmargins.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmessageauthenticationcode.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcryptographichash.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qpair.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qpoint.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qqueue.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qrect.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qrefcount.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qregexp.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qregularexpression.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qscopedvaluerollback.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qset.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qshareddata.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsharedpointer.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsize.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstack.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstringbuilder.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstringmatcher.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtextboundaryfinder.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtimeline.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtimezone.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qvarlengtharray.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qvector.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qxmlstream.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtcoreversion.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtWidgets/QApplication \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtWidgets/qapplication.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qcursor.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qguiapplication.h \
+ /home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qinputmethod.h
+
+qt/networkstyle.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/QIcon:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qicon.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qglobal.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/cstddef:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/x86_64-w64-mingw32/bits/c++config.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/x86_64-w64-mingw32/bits/os_defines.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/stddef.h:
+
+/usr/share/mingw-w64/include/stddef.h:
+
+/usr/share/mingw-w64/include/crtdefs.h:
+
+/usr/share/mingw-w64/include/_mingw.h:
+
+/usr/share/mingw-w64/include/_mingw_mac.h:
+
+/usr/share/mingw-w64/include/_mingw_secapi.h:
+
+/usr/share/mingw-w64/include/vadefs.h:
+
+/usr/share/mingw-w64/include/sdks/_mingw_directx.h:
+
+/usr/share/mingw-w64/include/sdks/_mingw_ddk.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qconfig.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfeatures.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsystemdetection.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qprocessordetection.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcompilerdetection.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/utility:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_relops.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_pair.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/move.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/concept_check.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/algorithm:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_algobase.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/functexcept.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/exception_defines.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/cpp_type_traits.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/ext/type_traits.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/ext/numeric_traits.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_iterator_base_types.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_iterator_base_funcs.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/debug/debug.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_iterator.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/ptr_traits.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/predefined_ops.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_algo.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/cstdlib:
+
+/usr/share/mingw-w64/include/stdlib.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include-fixed/limits.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include-fixed/syslimits.h:
+
+/usr/share/mingw-w64/include/limits.h:
+
+/usr/share/mingw-w64/include/sec_api/stdlib_s.h:
+
+/usr/share/mingw-w64/include/malloc.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/algorithmfwd.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_heap.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_tempbuf.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_construct.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/new:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/exception:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/atomic_lockfree_defines.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/ext/alloc_traits.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/allocator.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/x86_64-w64-mingw32/bits/c++allocator.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/ext/new_allocator.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/memoryfwd.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtypeinfo.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtypetraits.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsysinfo.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qlogging.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qflags.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qatomic.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qbasicatomic.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qatomic_x86.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qgenericatomic.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qglobalstatic.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qnumeric.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsize.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qnamespace.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qlist.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qalgorithms.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qiterator.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qrefcount.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qarraydata.h:
+
+/usr/share/mingw-w64/include/string.h:
+
+/usr/share/mingw-w64/include/sec_api/string_s.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/iterator:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/ostream:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/ios:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/iosfwd:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stringfwd.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/postypes.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/cwchar:
+
+/usr/share/mingw-w64/include/wchar.h:
+
+/usr/share/mingw-w64/include/_mingw_print_push.h:
+
+/usr/share/mingw-w64/include/_mingw_off_t.h:
+
+/usr/share/mingw-w64/include/_mingw_stat64.h:
+
+/usr/x86_64-w64-mingw32/include/swprintf.inl:
+
+/usr/share/mingw-w64/include/sec_api/wchar_s.h:
+
+/usr/share/mingw-w64/include/_mingw_print_pop.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/char_traits.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/localefwd.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/x86_64-w64-mingw32/bits/c++locale.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/clocale:
+
+/usr/share/mingw-w64/include/locale.h:
+
+/usr/share/mingw-w64/include/stdio.h:
+
+/usr/share/mingw-w64/include/sec_api/stdio_s.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/cctype:
+
+/usr/share/mingw-w64/include/ctype.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/ios_base.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/ext/atomicity.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/x86_64-w64-mingw32/bits/gthr.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/x86_64-w64-mingw32/bits/gthr-default.h:
+
+/usr/share/mingw-w64/include/pthread.h:
+
+/usr/share/mingw-w64/include/errno.h:
+
+/usr/share/mingw-w64/include/sys/types.h:
+
+/usr/share/mingw-w64/include/process.h:
+
+/usr/share/mingw-w64/include/signal.h:
+
+/usr/share/mingw-w64/include/pthread_signal.h:
+
+/usr/share/mingw-w64/include/sys/timeb.h:
+
+/usr/share/mingw-w64/include/sec_api/sys/timeb_s.h:
+
+/usr/share/mingw-w64/include/pthread_compat.h:
+
+/usr/share/mingw-w64/include/pthread_unistd.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/x86_64-w64-mingw32/bits/atomic_word.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/locale_classes.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/string:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/ostream_insert.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/cxxabi_forced.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_function.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/backward/binders.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/range_access.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/basic_string.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/basic_string.tcc:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/locale_classes.tcc:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/stdexcept:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/streambuf:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/streambuf.tcc:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/basic_ios.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/locale_facets.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/cwctype:
+
+/usr/share/mingw-w64/include/wctype.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/x86_64-w64-mingw32/bits/ctype_base.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/streambuf_iterator.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/locale_facets.tcc:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/basic_ios.tcc:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/ostream.tcc:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/istream:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/istream.tcc:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stream_iterator.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/list:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_list.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/list.tcc:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qbytearraylist.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qbytearray.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/stdarg.h:
+
+/usr/share/mingw-w64/include/stdarg.h:
+
+/usr/share/mingw-w64/include/_mingw_stdarg.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstringlist.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qregexp.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstring.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qchar.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstringmatcher.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qpixmap.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qpaintdevice.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qwindowdefs.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qobjectdefs.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qobjectdefs_impl.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qwindowdefs_win.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qrect.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmargins.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qpoint.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qcolor.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qrgb.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsharedpointer.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qshareddata.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qhash.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qpair.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/numeric:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_numeric.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsharedpointer_impl.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qobject.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qscopedpointer.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmetatype.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qvarlengtharray.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcontainerfwd.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qisenum.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/vector:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_uninitialized.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_vector.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_bvector.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/vector.tcc:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/map:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_tree.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_map.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/bits/stl_multimap.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qobject_impl.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qimage.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qtransform.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qmatrix.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qpolygon.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qvector.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qregion.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qdatastream.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qiodevice.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qline.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qpainterpath.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qpixelformat.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/QPixmap:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qpixmap.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/QString:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstring.h:
+
+qt/guiconstants.h:
+
+qt/scicon.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/QtCore:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/QtCoreDepends:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qabstractanimation.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qanimationgroup.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qabstractanimation.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qparallelanimationgroup.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qanimationgroup.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qpauseanimation.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qpropertyanimation.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qvariantanimation.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qeasingcurve.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qvariant.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmap.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsequentialanimationgroup.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qvariantanimation.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtextcodec.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcompilerdetection.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qendian.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qflags.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qglobal.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qglobalstatic.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qisenum.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qlibraryinfo.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qdatetime.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/limits:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qnamespace.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qnumeric.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qprocessordetection.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsysinfo.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsystemdetection.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtypeinfo.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtypetraits.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qbuffer.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qdatastream.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qdebug.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtextstream.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qlocale.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qset.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcontiguouscache.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qdir.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfileinfo.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfile.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfiledevice.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qdiriterator.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qdir.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfile.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfiledevice.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfileinfo.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfileselector.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/QObject:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qobject.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/QStringList:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstringlist.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfilesystemwatcher.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qiodevice.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qlockfile.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qloggingcategory.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qdebug.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qprocess.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qresource.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsavefile.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsettings.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstandardpaths.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstorageinfo.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtemporarydir.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/QScopedPointer:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qscopedpointer.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtemporaryfile.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtextstream.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qurl.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qurlquery.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qurl.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qabstractitemmodel.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qabstractproxymodel.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qabstractitemmodel.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qidentityproxymodel.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qabstractproxymodel.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qitemselectionmodel.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsortfilterproxymodel.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstringlistmodel.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qjsonarray.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qjsonvalue.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qjsondocument.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qjsonobject.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qjsonvalue.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qabstracteventdispatcher.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qeventloop.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qabstractnativeeventfilter.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qbasictimer.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcoreapplication.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcoreevent.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcoreevent.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qeventloop.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmath.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/5.3-posix/include/c++/cmath:
+
+/usr/share/mingw-w64/include/math.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmetaobject.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmetatype.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmimedata.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qobjectcleanuphandler.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qobjectdefs.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qpointer.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsharedmemory.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsignalmapper.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsocketnotifier.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsystemsemaphore.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtimer.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qbasictimer.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtranslator.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qvariant.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qwineventnotifier.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmimedatabase.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmimetype.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmimetype.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfactoryinterface.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qlibrary.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qplugin.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qpointer.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qjsonobject.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qpluginloader.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qlibrary.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qplugin.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/quuid.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qabstractstate.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qabstracttransition.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qeventtransition.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qabstracttransition.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfinalstate.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qabstractstate.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qhistorystate.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsignaltransition.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstate.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmetaobject.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstatemachine.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstate.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qatomic.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qexception.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfuture.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfutureinterface.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qrunnable.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmutex.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qexception.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qresultstore.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfutureinterface.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfuturesynchronizer.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfuture.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qfuturewatcher.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qgenericatomic.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmutex.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qreadwritelock.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qresultstore.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qrunnable.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsemaphore.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qthread.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qthreadpool.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qthread.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qthreadstorage.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qwaitcondition.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qalgorithms.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qarraydata.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qarraydataops.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qarraydatapointer.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qarraydataops.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qbitarray.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qbytearray.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qbytearraylist.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qbytearraymatcher.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcache.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qchar.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcollator.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcommandlineoption.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcommandlineparser.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcoreapplication.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcommandlineoption.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcontainerfwd.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcontiguouscache.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcryptographichash.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qdatetime.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qeasingcurve.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qelapsedtimer.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qhash.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qiterator.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qline.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qlinkedlist.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qlist.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qlocale.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmap.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmargins.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qmessageauthenticationcode.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qcryptographichash.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qpair.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qpoint.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qqueue.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qrect.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qrefcount.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qregexp.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qregularexpression.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qscopedvaluerollback.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qset.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qshareddata.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsharedpointer.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qsize.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstack.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstringbuilder.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qstringmatcher.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtextboundaryfinder.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtimeline.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtimezone.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qvarlengtharray.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qvector.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qxmlstream.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtCore/qtcoreversion.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtWidgets/QApplication:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtWidgets/qapplication.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qcursor.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qguiapplication.h:
+
+/home/kk/TINC/depends/x86_64-w64-mingw32/include/QtGui/qinputmethod.h:
